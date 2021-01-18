@@ -2,4 +2,19 @@
 body{
 	background-color:red;
 	color:blue;
+	
+}
+
+li{
+	font-size:15px;
+}
+
+h1{
+	color:yellow;
+}
+
+.atext{
+	font-size : 25px;
+	color:white;
+	background-color: yellow;
 }
